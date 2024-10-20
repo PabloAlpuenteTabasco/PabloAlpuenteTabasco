@@ -12,25 +12,29 @@
 
 
 <ul>
-  <li>👀 I’m interested in machine learning, data analysis, and AI-driven solutions</li>
-  <li>🌱 I’m currently learning data science @ UPV </li>
-  <li>💞️ I’m looking to collaborate on innovative projects related to predictive modeling and data-driven decision making</li>
-  <li>📫 How to reach me: <a href="mailto:pabloalpuentetabasco@gmail.com">pabloalpuentetabasco@gmail.com</a></li>
+  <li>👀 I’m interested in Data Science, machine learning, data analysis, and AI-driven solutions</li>
+  <li>👨🏼‍🎓 I’m currently learning Data Science @ UPV </li>
+  <li>👨🏽‍💻 I’m looking to collaborate on innovative projects related to predictive modeling and data-based decision making, as well as business analysis and algorithm automation</li>
   <li>😄 Pronouns: He/Him</li>
-  <li>Im also: interested in bodybuilding, fitness and healthy lifestyle! </li>
+  <li>🏋🏽‍♂️ Im also: interested in bodybuilding, fitness and healthy lifestyle!</li>
   <li>⚡ Fun fact: I can solve a Rubik's cube in under a minute!🧠</li>
 </ul>
 
-# 🌐 Where to find me:
-<a href="https://www.linkedin.com/in/pablo-a-887369331/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>&nbsp;
-<a href="https://www.instagram.com/paabloalpueentee/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1920px-Instagram_logo_2022.svg.png" alt="Instagram" width="40" height="40" />
-</a>&nbsp;
-<a href="mailto:pabloalpuentetabasco@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+<h2 align="center">
+    <samp>🌐 Connect with me:</samp>
+</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pablo-a-887369331/" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/paabloalpueentee/" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;
+  <a href="mailto:pabloalpuentetabasco@gmail.com" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 
 <!---
